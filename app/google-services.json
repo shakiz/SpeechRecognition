@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464433937518",
+    "firebase_url": "https://voice-recognition-240518.firebaseio.com",
+    "project_id": "voice-recognition-240518",
+    "storage_bucket": "voice-recognition-240518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464433937518:android:35bb8ab187df68cb",
+        "android_client_info": {
+          "package_name": "app.com.speechrecognization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464433937518-19eemf39um8r9h9ob9i7gmlelbj10cmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RSojp2XmehNeQA7MV2KZQsjMHBWqZFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464433937518-19eemf39um8r9h9ob9i7gmlelbj10cmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

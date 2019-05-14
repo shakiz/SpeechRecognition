@@ -11,7 +11,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
-        android:hint="You will see input here"
+        android:hint="Texts"
+        android:gravity="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+    <TextView
+        android:layout_below="@id/textXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/languageXML"
+        android:layout_centerVertical="true"
+        android:hint="Language"
         android:gravity="center"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
